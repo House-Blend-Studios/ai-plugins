@@ -1,6 +1,6 @@
 # Security
 
-To report a security problem in a plugin here, or in the product it works with, email **support@houseblendstudios.com** with "Security" in the subject. Please don't open a public issue for it.
+To report a security problem in a plugin here, or in the product it works with, open an issue on this repository (https://github.com/House-Blend-Studios/ai-plugins/issues) or email **support@houseblendstudios.com** with "Security" in the subject. If the report holds something that shouldn't be public, such as a way to reach someone else's data, email it.
 
 Say which plugin and version (from its `plugin.json`), what you found, and how to reproduce it. We'll reply to say we've got it, look into it, and tell you what we did.
 

@@ -48,7 +48,7 @@ After a change, reinstall to pick it up: `/plugin uninstall <plugin>@house-blend
 
 ## Security
 
-Report a security problem to support@houseblendstudios.com; see [SECURITY.md](SECURITY.md).
+Report a security problem in an issue here or to support@houseblendstudios.com; see [SECURITY.md](SECURITY.md).
 
 ## License
 
