@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="JobPlanner HQ">
+  <rect width="512" height="512" fill="#ffffff"/>
+  <g transform="translate(83.2 83.2) scale(7.2)">
+    <rect x="4" y="9" width="24" height="7" rx="3.5" fill="#1a1830"/>
+    <rect x="12" y="20.5" width="24" height="7" rx="3.5" fill="#1a1830"/>
+    <rect x="20" y="32" width="24" height="7" rx="3.5" fill="#0e6e78"/>
+  </g>
+</svg>
