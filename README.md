@@ -46,6 +46,10 @@ After a change, reinstall to pick it up: `/plugin uninstall <plugin>@house-blend
 
 `plugin-development` is from [ivan-magda/claude-code-plugin-template](https://github.com/ivan-magda/claude-code-plugin-template) (MIT).
 
+## Security
+
+Report a security problem to support@houseblendstudios.com; see [SECURITY.md](SECURITY.md).
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
