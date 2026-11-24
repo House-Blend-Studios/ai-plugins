@@ -1,12 +1,13 @@
 {
   "name": "jobplanner-hq",
   "displayName": "JobPlanner HQ",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "Skills for working with your firm's JobPlanner through its connector: see your week and what's late, log an email to a job, review the team's workload, and write your firm's import plugin",
   "author": {
     "name": "House Blend Studios"
   },
   "homepage": "https://jobplannerhq.com/",
+  "privacyPolicyUrl": "https://jobplannerhq.com/privacy",
   "license": "MIT",
   "keywords": ["jobplanner", "surveying", "jobs", "mcp", "import"]
 }
