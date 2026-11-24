@@ -1,6 +1,6 @@
 # House Blend Studios AI plugins
 
-The plugin marketplace for House Blend Studios' products, starting with JobPlanner. A plugin here gives an AI coding agent what it needs to work with one of our products: an MCP server entry and skills, installed in one step.
+The plugin marketplace for House Blend Studios' products, starting with JobPlanner. A plugin here gives an AI agent the skills it needs to work with one of our products, installed in one step.
 
 ## Install
 
@@ -9,13 +9,13 @@ The plugin marketplace for House Blend Studios' products, starting with JobPlann
 /plugin install <plugin>@house-blend-studios
 ```
 
-While this repository is private, you need read access to it on GitHub, and `GITHUB_TOKEN` set in your environment for background auto-updates.
+Anyone can add the marketplace. A plugin works only through your own account on the product: for JobPlanner, connect your firm's JobPlanner from your Profile page there first.
 
 ## Plugins
 
 | Plugin | For | What it does |
 |---|---|---|
-| [`jobplanner`](plugins/jobplanner/) | a firm's people and administrators | skills over the firm's JobPlanner connector: an email to a job, and writing the firm's import plugin |
+| [`jobplanner`](plugins/jobplanner/) | a firm's people and administrators | skills over the firm's JobPlanner connector: your week, what's late and whose turn, the team's workload, an email to a job, and writing the firm's import plugin |
 | [`plugin-development`](plugins/plugin-development/) | people building plugins here | `/plugin-development:init`, `add-skill`, `add-command`, `add-agent`, `add-hook`, `validate` and `test-local`, plus a reviewer agent |
 
 ## Rules for a plugin here
