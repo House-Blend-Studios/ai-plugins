@@ -1,0 +1,21 @@
+{
+  "$comment": "The JobPlanner MCP tools these skills may name. The monorepo pins the same list (PUBLISHED_SKILL_TOOLS) and tests each is still served, so a tool is never dropped while a published skill names it. Adding a tool to a skill means adding it in both places.",
+  "tools": [
+    "find_jobs",
+    "get_job",
+    "add_job_note",
+    "draft_job",
+    "authoring_brief",
+    "list_samples",
+    "read_sample",
+    "read_version",
+    "catalog",
+    "try_plugin",
+    "diff",
+    "save_draft",
+    "list_people",
+    "team_workload",
+    "my_work",
+    "late_jobs"
+  ]
+}

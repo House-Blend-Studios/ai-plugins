@@ -1,0 +1,57 @@
+{
+  "name": "house-blend-studios",
+  "owner": {
+    "name": "House Blend Studios"
+  },
+  "metadata": {
+    "description": "House Blend Studios' AI coding agent plugins, starting with JobPlanner",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "jobplanner",
+      "description": "Skills for your firm's JobPlanner connector: log an email to a job, and write your firm's import plugin",
+      "version": "0.1.9",
+      "author": {
+        "name": "House Blend Studios"
+      },
+      "source": "./plugins/jobplanner",
+      "category": "productivity",
+      "tags": [
+        "jobplanner",
+        "jobs",
+        "import"
+      ],
+      "keywords": [
+        "jobplanner",
+        "surveying",
+        "mcp",
+        "import"
+      ]
+    },
+    {
+      "name": "plugin-development",
+      "description": "Assist with Claude Code plugin development: scaffold, validate, review, and team-ready distribution",
+      "version": "1.4.0",
+      "author": {
+        "name": "Ivan Magda"
+      },
+      "source": "./plugins/plugin-development",
+      "category": "developer-tools",
+      "tags": [
+        "development",
+        "plugins",
+        "scaffold",
+        "validation",
+        "tools"
+      ],
+      "keywords": [
+        "claude-code",
+        "plugins",
+        "developer-tools",
+        "scaffold",
+        "validation"
+      ]
+    }
+  ]
+}
