@@ -1,6 +1,6 @@
 {
-  "name": "jobplanner",
-  "version": "0.1.10",
+  "name": "jobplanner-hq",
+  "version": "0.1.11",
   "description": "Skills for working with your firm's JobPlanner through its connector: see your week and what's late, log an email to a job, review the team's workload, and write your firm's import plugin",
   "author": {
     "name": "House Blend Studios"
