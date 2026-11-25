@@ -35,3 +35,6 @@ Two kinds of writes need you:
 ## Other agents
 
 The skills are plain `SKILL.md` files, and the tools are standard MCP. GitHub Copilot CLI installs this plugin from the same marketplace. Agents that read Agent Skills can use the `skills/` folder directly.
+
+- **Codex:** `codex plugin marketplace add House-Blend-Studios/ai-plugins`, then install `house-blend-jobs` from `/plugins`. It brings the connector too: sign in when Codex asks.
+- **ChatGPT:** add the connector yourself, under Plugins › Add custom MCP server, with `https://jobplannerhq.com/mcp` and OAuth. ChatGPT runs this plugin's skills only once a workspace admin publishes it, so for now it gets the tools without the skills.

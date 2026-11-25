@@ -1,0 +1,20 @@
+{
+  "name": "house-blend-studios",
+  "interface": {
+    "displayName": "House Blend Studios"
+  },
+  "plugins": [
+    {
+      "name": "house-blend-jobs",
+      "source": {
+        "source": "local",
+        "path": "./plugins/jobplanner"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

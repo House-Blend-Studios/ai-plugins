@@ -1,0 +1,24 @@
+{
+  "name": "house-blend-jobs",
+  "version": "0.1.18",
+  "description": "Skills for working with your firm's JobPlanner through its connector: see your week and what's late, log an email to a job, review the team's workload, and write your firm's import plugin",
+  "author": {
+    "name": "House Blend Studios"
+  },
+  "homepage": "https://jobplannerhq.com/",
+  "repository": "https://github.com/House-Blend-Studios/ai-plugins",
+  "license": "MIT",
+  "keywords": ["jobplanner", "surveying", "jobs", "mcp", "import"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "House Blend Jobs",
+    "shortDescription": "Your firm's JobPlanner: your week, what's late, the team's workload, emails to jobs",
+    "developerName": "House Blend Studios",
+    "category": "Productivity",
+    "websiteURL": "https://jobplannerhq.com/",
+    "privacyPolicyURL": "https://jobplannerhq.com/privacy",
+    "composerIcon": "./.claude-plugin/icon.png",
+    "logo": "./.claude-plugin/icon.png"
+  }
+}

@@ -10,8 +10,8 @@
   "plugins": [
     {
       "name": "house-blend-jobs",
-      "description": "Skills for your firm's JobPlanner connector: log an email to a job, and write your firm's import plugin",
-      "version": "0.1.17",
+      "description": "Skills for your firm's JobPlanner connector: your week, what's late, the team's workload, an email to a job, and your firm's import plugin",
+      "version": "0.1.18",
       "author": {
         "name": "House Blend Studios"
       },
