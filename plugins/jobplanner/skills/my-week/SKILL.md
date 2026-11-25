@@ -7,7 +7,7 @@ description: Tell the person what's on their plate in JobPlanner — what to do 
 
 Tools: `my_work`, `get_job`
 
-If no JobPlanner tools are available, tell the person to connect JobPlanner from their Profile page, then stop.
+If no JobPlanner tools are available in this session, say that this skill works only with JobPlanner's tools, then stop.
 
 **More than one firm connected?** Each firm's JobPlanner is its own connector, named for the firm. Ask which firm they mean, or call each one and keep the answers apart under the firm's name. Never mix two firms' jobs in one list.
 

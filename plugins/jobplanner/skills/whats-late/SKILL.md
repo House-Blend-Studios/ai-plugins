@@ -7,7 +7,7 @@ description: Say which JobPlanner jobs are late and whose turn each one is, or w
 
 Tools: `late_jobs`, `find_jobs`, `get_job`
 
-If no JobPlanner tools are available, tell the person to connect JobPlanner from their Profile page, then stop.
+If no JobPlanner tools are available in this session, say that this skill works only with JobPlanner's tools, then stop.
 
 **More than one firm connected?** Each firm's JobPlanner is its own connector, named for the firm. Answer for the one the person names. If they don't name one, ask which firm before you call anything. Never mix two firms' jobs in one answer.
 

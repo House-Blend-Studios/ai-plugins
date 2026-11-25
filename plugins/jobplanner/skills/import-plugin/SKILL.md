@@ -7,9 +7,7 @@ description: Write or change a firm's JobPlanner import plugin, the JavaScript t
 
 Tools: `authoring_brief`, `list_samples`, `read_sample`, `read_version`, `catalog`, `try_plugin`, `diff`, `save_draft`
 
-If the JobPlanner import tools (`authoring_brief` and the rest) aren't available, tell the person, then stop:
-- Only an administrator can give an agent the import tools, by allowing "read your import samples and write drafts of the plugin" when connecting (from the guide on their Profile page in JobPlanner).
-- A connection made before that line was offered doesn't have it: remove the connector and add it again.
+If the JobPlanner import tools (`authoring_brief` and the rest) aren't available in this session, say that this skill needs them and that only a JobPlanner administrator's access includes them, then stop.
 
 **More than one firm connected?** Each firm's JobPlanner is its own connector, named for the firm, with its own samples, catalog and versions. Ask which firm's plugin to write unless the person named it, then call every tool on that one firm's connector. Never try one firm's plugin against another firm's samples.
 

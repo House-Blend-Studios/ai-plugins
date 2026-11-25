@@ -9,7 +9,7 @@ The plugin marketplace for House Blend Studios' products, starting with JobPlann
 /plugin install <plugin>@house-blend-studios
 ```
 
-Anyone can add the marketplace. A plugin works only through your own account on the product: for JobPlanner, connect your firm's JobPlanner from your Profile page there first.
+Anyone can add the marketplace. A plugin works only through your own account on the product.
 
 ## Plugins
 
