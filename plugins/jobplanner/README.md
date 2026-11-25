@@ -9,7 +9,7 @@ Skills for working with your firm's JobPlanner from an AI agent. The plugin carr
 
    ```bash
    /plugin marketplace add House-Blend-Studios/ai-plugins
-   /plugin install jobplanner-hq@house-blend-studios
+   /plugin install house-blend-jobs@house-blend-studios
    ```
 
 **In more than one firm?** Connect each firm from its own Profile page. One install of the plugin serves them all. The skills work in one firm at a time, and they ask which firm you mean when it isn't plain.

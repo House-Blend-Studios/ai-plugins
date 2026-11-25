@@ -6,4 +6,4 @@ Say which plugin and version (from its `plugin.json`), what you found, and how t
 
 ## What these plugins do
 
-The `jobplanner-hq` plugin holds only skills: instructions an AI agent reads. It runs no code, starts no server and stores no data. Its skills call your firm's own JobPlanner connector, with the permissions you granted when you connected it. JobPlanner's privacy page says what JobPlanner keeps: https://jobplannerhq.com/privacy.
+The `house-blend-jobs` plugin holds only skills: instructions an AI agent reads. It runs no code, starts no server and stores no data. Its skills call your firm's own JobPlanner connector, with the permissions you granted when you connected it. JobPlanner's privacy page says what JobPlanner keeps: https://jobplannerhq.com/privacy.

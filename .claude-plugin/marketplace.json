@@ -9,9 +9,9 @@
   },
   "plugins": [
     {
-      "name": "jobplanner-hq",
+      "name": "house-blend-jobs",
       "description": "Skills for your firm's JobPlanner connector: log an email to a job, and write your firm's import plugin",
-      "version": "0.1.13",
+      "version": "0.1.14",
       "author": {
         "name": "House Blend Studios"
       },

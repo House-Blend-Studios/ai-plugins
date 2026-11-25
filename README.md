@@ -15,7 +15,7 @@ Anyone can add the marketplace. A plugin works only through your own account on 
 
 | Plugin | For | What it does |
 |---|---|---|
-| [`jobplanner-hq`](plugins/jobplanner/) | a firm's people and administrators | skills over the firm's JobPlanner connector: your week, what's late and whose turn, the team's workload, an email to a job, and writing the firm's import plugin |
+| [`house-blend-jobs`](plugins/jobplanner/) | a firm's people and administrators | skills over the firm's JobPlanner connector: your week, what's late and whose turn, the team's workload, an email to a job, and writing the firm's import plugin |
 | [`plugin-development`](plugins/plugin-development/) | people building plugins here | `/plugin-development:init`, `add-skill`, `add-command`, `add-agent`, `add-hook`, `validate` and `test-local`, plus a reviewer agent |
 
 ## Rules for a plugin here
