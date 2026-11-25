@@ -20,7 +20,7 @@ If no JobPlanner tools are available, the person hasn't signed in yet: tell them
    - `noStepReady`: late jobs where no step can be taken yet, each with the reason the app gives (not released to the board yet, or no work set up on it). These need someone to act on the job itself, not on a step.
 3. **Answer in the person's terms:**
    - Lead with the count and the date the answer gives: "11 jobs are late as of Nov 24."
-   - Then each person, most late jobs first. Under each person, name every job by its number and name, with how many days late it is and the step it waits on, in the words the tool gives (`whose`, `step`).
+   - Then each person, in the tool's order (by name; never rank people by how many of theirs are late). Under each person, name every job by its number and name, with how many days late it is and the step it waits on, in the words the tool gives (`whose`, `step`).
    - Then the role groups, then the no-step-ready jobs.
    - Keep it short. If it's long, give each person's count first and offer the detail.
 4. **If they ask about one person** ("what's late on Sam?"), answer from the same `late_jobs` call. Don't call again.
