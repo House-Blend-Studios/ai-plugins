@@ -7,7 +7,7 @@ description: Review who on the team is carrying what in JobPlanner, and who has 
 
 Tools: `team_workload`, `list_people`, `find_jobs`
 
-If no JobPlanner tools are available in this session, say that this skill works only with JobPlanner's tools, then stop.
+If no JobPlanner tools are available, the person hasn't signed in yet: tell them to connect JobPlanner (in Claude Code, `/mcp` and sign in to `jobplanner`; it asks which firm, then they allow it on their firm's own page), then stop.
 
 **More than one firm connected?** Each firm's JobPlanner is its own connector, named for the firm. Review one firm at a time: the one the person names, or ask which. People and figures in one firm mean nothing in another.
 

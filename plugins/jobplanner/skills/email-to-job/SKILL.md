@@ -7,7 +7,7 @@ description: Log an email against a JobPlanner job, or turn a new order into a d
 
 Tools: `find_jobs`, `get_job`, `add_job_note`, `draft_job`
 
-If no JobPlanner tools are available in this session, say that this skill works only with JobPlanner's tools, then stop.
+If no JobPlanner tools are available, the person hasn't signed in yet: tell them to connect JobPlanner (in Claude Code, `/mcp` and sign in to `jobplanner`; it asks which firm, then they allow it on their firm's own page), then stop.
 
 **More than one firm connected?** Each firm's JobPlanner is its own connector, named for the firm. Work in one firm only: the one the person names, or the one the email is plainly for (the sender, the job number's pattern or the address). If you can't tell, ask before you search. Search, read and write in that same firm. A job number or a job in one firm means nothing in another, and a note must never land on another firm's job.
 

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "jobplanner": {
+      "type": "http",
+      "url": "https://jobplannerhq.com/mcp"
+    }
+  }
+}

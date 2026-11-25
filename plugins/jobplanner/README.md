@@ -1,15 +1,17 @@
 # jobplanner
 
-Skills for working with your firm's JobPlanner from an AI agent. The plugin carries **skills only**. The tools come from your firm's own JobPlanner, which the plugin does not include: the skills work in a session that already has JobPlanner's tools.
+Skills for working with your firm's JobPlanner from an AI agent, and the JobPlanner connector they use: `https://jobplannerhq.com/mcp`, one address for every firm. Signing in asks which firm, then you allow the assistant on your firm's own JobPlanner page, with the permissions you choose there.
 
 ## Install
 
-```bash
-/plugin marketplace add House-Blend-Studios/ai-plugins
-/plugin install house-blend-jobs@house-blend-studios
-```
+1. Add the plugin:
 
-**In more than one firm?** One install of the plugin serves them all. The skills work in one firm at a time, and they ask which firm you mean when it isn't plain.
+   ```bash
+   /plugin marketplace add House-Blend-Studios/ai-plugins
+   /plugin install house-blend-jobs@house-blend-studios
+   ```
+
+2. Sign in: in Claude Code, run `/mcp`, choose `jobplanner` and sign in. Type your firm's address, then allow the assistant on your firm's page.
 
 ## Skills
 
